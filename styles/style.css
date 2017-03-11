@@ -378,7 +378,7 @@ form {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 hr {
   margin-top: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 0rem;
   border-width: 0;
   border-top: 1px solid #E1E1E1; }
 
@@ -426,7 +426,7 @@ there.
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 */
 
-.content {padding:40px 0px}
+.content {padding:0px 0px}
 
 header h6 {
     text-align: center;
