@@ -432,3 +432,7 @@ header h6 {
     text-align: center;
     padding-top: 1em;
 }
+
+.sidebar {
+    background-color:  #e8f5d6;
+}
