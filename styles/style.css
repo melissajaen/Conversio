@@ -314,7 +314,7 @@ code {
   margin: 0 .2rem;
   font-size: 90%;
   white-space: nowrap;
-  background: #F1F1F1;
+  background: -webkit-linear-gradient(left, #ffffff 0%,#ffffff 50%,#e8f5d6 51%,#e8f5d6 100%);
   border: 1px solid #E1E1E1;
   border-radius: 4px; }
 pre > code {
@@ -431,6 +431,11 @@ there.
 header h6 {
     text-align: center;
     padding-top: 1em;
+}
+
+header {
+    border-bottom: 2px;
+    border-bottom-color: #E1E1E1;
 }
 
 .sidebar {
